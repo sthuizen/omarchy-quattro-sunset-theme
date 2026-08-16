@@ -4,6 +4,24 @@ A warm, high-contrast dark theme for [Omarchy](https://omarchy.org), inspired by
 
 ![Quattro Sunset wallpaper](backgrounds/jerusalem-sunset.png)
 
+## Biblical wallpaper collection
+
+The theme includes a coordinated series of hand-inked, cinematic wallpapers:
+
+1. [Creation](backgrounds/01-creation.png)
+2. [The Flood](backgrounds/02-flood.png)
+3. [The Nativity](backgrounds/03-nativity.png)
+4. [The Crucifixion](backgrounds/04-crucifixion.png)
+5. [David and Goliath](backgrounds/05-david-and-goliath.png)
+6. [Revelation and the New Jerusalem](backgrounds/06-revelation.png)
+7. [Jerusalem Sunset](backgrounds/jerusalem-sunset.png)
+
+Cycle through them from Omarchy's background picker or run:
+
+```bash
+omarchy theme bg next
+```
+
 ## Palette
 
 - Deep umber backgrounds
@@ -40,7 +58,7 @@ omarchy theme remove quattro-sunset
 ## Contents
 
 - `colors.toml` defines the semantic and ANSI palette. Omarchy generates its application-specific theme files from it.
-- `backgrounds/jerusalem-sunset.png` is the bundled wallpaper.
+- `backgrounds/` contains the coordinated biblical wallpaper collection.
 
 ## License
 
