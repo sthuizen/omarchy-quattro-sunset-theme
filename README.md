@@ -1,8 +1,8 @@
-# Quattro Sunset for Omarchy
+# Biblical Horizons for Omarchy
 
-A warm, high-contrast dark theme for [Omarchy](https://omarchy.org), inspired by a golden Jerusalem sunset.
+A warm, high-contrast dark theme for [Omarchy](https://omarchy.org), built around a coordinated collection of cinematic, hand-inked biblical landscapes.
 
-![Quattro Sunset wallpaper](backgrounds/jerusalem-sunset.png)
+![Biblical Horizons wallpaper](backgrounds/jerusalem-sunset.png)
 
 ## Biblical wallpaper collection
 
@@ -34,13 +34,13 @@ omarchy theme bg next
 ## Install
 
 ```bash
-omarchy theme install https://github.com/thenailedone/omarchy-quattro-sunset-theme.git
+omarchy theme install https://github.com/thenailedone/omarchy-biblical-horizons-theme.git
 ```
 
-The installer applies the theme automatically. You can select it again later as **Quattro Sunset** from Omarchy's theme switcher or with:
+The installer applies the theme automatically. You can select it again later as **Biblical Horizons** from Omarchy's theme switcher or with:
 
 ```bash
-omarchy theme set quattro-sunset
+omarchy theme set biblical-horizons
 ```
 
 ## Update
@@ -52,7 +52,7 @@ omarchy theme update
 ## Remove
 
 ```bash
-omarchy theme remove quattro-sunset
+omarchy theme remove biblical-horizons
 ```
 
 ## Contents
