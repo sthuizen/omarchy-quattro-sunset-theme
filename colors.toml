@@ -1,0 +1,32 @@
+mode = "dark"
+
+# Jerusalem sunset: golden sky over deep umber stone and mauve clouds.
+accent = "#F19721"
+selection = "#4E2C15"
+muted = "#795462"
+
+background = "#130D0B"
+dark_background = "#0B0807"
+darker_background = "#070504"
+lighter_background = "#2A1A10"
+
+foreground = "#E7C7A0"
+dark_foreground = "#8F6D5A"
+light_foreground = "#F2D9B5"
+bright_foreground = "#FCF294"
+
+red = "#B84A35"
+yellow = "#E5AE38"
+orange = "#D5722B"
+green = "#9DAA67"
+cyan = "#78AAA2"
+blue = "#7F8FB5"
+magenta = "#A66A8A"
+brown = "#734527"
+
+bright_red = "#DF6548"
+bright_yellow = "#F8C73F"
+bright_green = "#BCCB7A"
+bright_cyan = "#98CEC3"
+bright_blue = "#A1B5DE"
+bright_magenta = "#C88BAB"
