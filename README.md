@@ -2,7 +2,19 @@
 
 A warm, high-contrast dark theme for [Omarchy](https://omarchy.org), built around a coordinated collection of cinematic, hand-inked biblical landscapes.
 
-![Quattro Sunset wallpaper](backgrounds/jerusalem-sunset.png)
+## Preview
+
+### Desktop and wallpaper
+
+![Quattro Sunset desktop with the Creation wallpaper](theme-preview.webp)
+
+### Terminal palette
+
+![Quattro Sunset terminal palette shown with Fastfetch](fastfetch-preview.webp)
+
+### Jerusalem Sunset wallpaper
+
+![Quattro Sunset Jerusalem Sunset wallpaper](backgrounds/jerusalem-sunset.png)
 
 ## Biblical wallpaper collection
 
