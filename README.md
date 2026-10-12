@@ -46,7 +46,7 @@ omarchy theme bg next
 ## Install
 
 ```bash
-omarchy theme install https://github.com/thenailedone/omarchy-quattro-sunset-theme.git
+omarchy theme install https://github.com/sthuizen/omarchy-quattro-sunset-theme.git
 ```
 
 The installer applies the theme automatically. You can select it again later as **Quattro Sunset** from Omarchy's theme switcher or with:
